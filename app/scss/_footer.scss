@@ -1,0 +1,10 @@
+@import "var";
+
+footer {
+    display: flex;
+    background-color: $color-grey;
+    position: absolute;
+    top: 80%;
+    height: auto;
+    margin: 0;
+}
